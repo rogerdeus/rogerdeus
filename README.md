@@ -1,4 +1,4 @@
-# 👨‍💻Vitor linhares
+# 👨‍💻Vitor Linhares
  
  **`Desenvolvedor iniciante`**
 
@@ -26,7 +26,6 @@ Meu nome é vitor tenho 19 anos atualmente estou cursando engenharia de computa�
 <img align="center" alt="vitor-PY" heinght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="center" alt="vs" heinght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
           
-  
 
 
 
