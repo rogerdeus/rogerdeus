@@ -2,7 +2,7 @@
  
  **`Desenvolvedor iniciante`**
 
-Meu nome é vitor tenho 19 anos atualmente estou cursando engenharia de computação no "[CEUB](https://www.instagram.com/uniceub_oficial?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)".
+Meu nome é vitor tenho 20 anos atualmente estou cursando engenharia de computação no "[CEUB](https://www.instagram.com/uniceub_oficial?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)".
 
 
  
@@ -11,7 +11,7 @@ Meu nome é vitor tenho 19 anos atualmente estou cursando engenharia de computa�
 
 
 ##
-  👾**Status do github**
+ 
 
 
 
