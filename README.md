@@ -24,7 +24,12 @@ class Vitor:
         self.curso = "Engenharia de Computação"
         self.local = "Brasília, DF"
         self.interesses = ["Software", "Hardware", "Algoritmos", "Redes"]
-        
+        # TODO: troque por seus hobbies e objetivos reais
+        self.hobbies = ["_______", "_______"]
+        self.objetivo_2026 = "_______"
+
+    def curiosidade(self):
+        return "_______"  # ex: um fato divertido sobre você
 ```
 
 - ⚡ Também curso disciplinas de hardware: Circuitos Digitais, Microprocessadores e Microcontroladores
@@ -100,6 +105,17 @@ Implementações em **C** de estruturas de dados clássicas, feitas durante a di
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rogerdeus&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerdeus&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="165" />
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rogerdeus/rogerdeus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/rogerdeus/rogerdeus/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation" width="100%"/>
 
 </div>
 
