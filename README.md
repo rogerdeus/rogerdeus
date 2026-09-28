@@ -24,12 +24,6 @@ class Vitor:
         self.curso = "Engenharia de Computação"
         self.local = "Brasília, DF"
         self.interesses = ["Software", "Hardware", "Algoritmos", "Redes"]
-        # TODO: troque por seus hobbies e objetivos reais
-        self.hobbies = ["_______", "_______"]
-        self.objetivo_2026 = "_______"
-
-    def curiosidade(self):
-        return "_______"  # ex: um fato divertido sobre você
 ```
 
 - ⚡ Também curso disciplinas de hardware: Circuitos Digitais, Microprocessadores e Microcontroladores
